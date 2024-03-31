@@ -1,0 +1,11 @@
+body{
+    background-color: wheat;
+}
+
+.all{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 100px;
+    padding: 100px;
+}
